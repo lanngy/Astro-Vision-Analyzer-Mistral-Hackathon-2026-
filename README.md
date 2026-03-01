@@ -1,4 +1,4 @@
-# Astro Vision Analyzer- Mistral Hackathon-2026 
+# Astro Vision Analyzer  (Mistral Hackathon 2026)
 
 Project Overview:
 I built a Python tool that identifies planets from images and calculates personalized space statistics. It combines AI-powered vision with custom physics logic.
